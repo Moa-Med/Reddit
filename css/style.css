@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    color: blue;
+}
+
+button{
+    background-color: beige;
+    border-radius: 2px;
+    border: black 1px solid;
+}
+
+#results-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.user-card {
+    text-decoration: none;
+    padding: 5px;
+    border: solid 1px blue;
+    margin: 5px auto;
+}
